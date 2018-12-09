@@ -8,7 +8,7 @@ class QuizQuestionButton extends Component{
                     {this.props.button_text}
                 </button>
             </li>
-        )
+        );
     }
 }
 
